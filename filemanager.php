@@ -5205,9 +5205,7 @@ function fm_show_header_login()
                         _data = {
                             "aceTheme": {
                                 "bright": {
-                                    "chrome": "Chrome",
-                                    "textmate": "TextMate",
-                                    "sqlserver": "SQL Server"
+                                    "dracula": "Dracula",
                                 },
                                 "dark": {
                                     "dracula": "Dracula",
